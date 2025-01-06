@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="UserStoryDSL Updatesite">
+      Update site for the UserStoryDSL Eclipse plugin.
+   </description>
+   <feature url="features/de.htwdd.sf.beleg.s89139s89151.feature_1.0.0.2.jar" id="de.htwdd.sf.beleg.s89139s89151.feature" version="1.0.0.2">
+      <category name="UserStoryDSL"/>
+   </feature>
+   <category-def name="UserStoryDSL" label="UserStoryDSL"/>
+</site>
